@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: bisque;
+    width: 300px;
+    height: 490px;
+}
+
+main {
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 0;
+}
+
+#entrada,
+#lista {
+    border: 0px;
+    height: 200px;
+    padding: 2px 5px;
+    resize: none;
+    width: 98%;
+}
+
+#selectores {
+    margin-top: 5px;
+}
+
+button {
+    height: 40px;
+    width: 49%;
+}
+
+.ancho {
+    width: 98%;
+    margin-bottom: 2px;
+}
